@@ -34,7 +34,7 @@ Siga os passos abaixo para configurar e executar a aplicação em seu ambiente l
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/JoaoVictor2201/api-flask-MVC.git](https://github.com/JoaoVictor2201/api-flask-MVC.git)
+    git clone https://github.com/JoaoVictor2201/api-flask-MVC.git
     ```
 
 2.  **Navegue até o diretório do projeto:**
