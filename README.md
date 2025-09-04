@@ -15,19 +15,19 @@ A aplicação permite o gerenciamento completo de Usuários e Tarefas associadas
 - **Criação de Usuários:** Formulário para adicionar novos usuários ao sistema.
 
 ### Gerenciamento de Tarefas
-- [cite_start]**Listagem de Tarefas:** Exibe todas as tarefas, mostrando seus detalhes como título, descrição, status e a qual usuário pertencem[cite: 50, 51].
-- [cite_start]**Criação de Tarefa:** Formulário para adicionar uma nova tarefa e associá-la a um usuário existente através de um campo de seleção[cite: 54, 55].
-- [cite_start]**Atualização de Status:** Permite alterar o status de uma tarefa entre 'Pendente' e 'Concluído' diretamente da lista[cite: 40, 52].
-- [cite_start]**Exclusão de Tarefa:** Permite remover uma tarefa do banco de dados[cite: 44, 52].
+- **Listagem de Tarefas:** Exibe todas as tarefas, mostrando seus detalhes como título, descrição, status e a qual usuário pertencem.
+- **Criação de Tarefa:** Formulário para adicionar uma nova tarefa e associá-la a um usuário existente através de um campo de seleção.
+- **Atualização de Status:** Permite alterar o status de uma tarefa entre 'Pendente' e 'Concluído' diretamente da lista.
+- **Exclusão de Tarefa:** Permite remover uma tarefa do banco de dados.
 
 ## 🛠️ Tecnologias e Padrões Utilizados
 
 - **Backend:** Python
 - **Framework:** Flask
-- [cite_start]**ORM:** SQLAlchemy [cite: 12]
-- [cite_start]**Banco de Dados:** SQLite [cite: 12]
-- [cite_start]**Arquitetura:** MVC (Model-View-Controller) [cite: 14]
-- [cite_start]**Templates:** Jinja2 [cite: 12]
+- **ORM:** SQLAlchemy
+- **Banco de Dados:** SQLite
+- **Arquitetura:** MVC (Model-View-Controller)
+- **Templates:** Jinja2
 - **Estrutura do Projeto:** Padrão *Application Factory* e *Blueprints* para organização das rotas.
 
 ## 🚀 Como Executar o Projeto Localmente
@@ -65,7 +65,7 @@ Siga os passos abaixo para configurar e executar a aplicação em seu ambiente l
     ```bash
     python run.py
     ```
-    [cite_start]Ao ser executada pela primeira vez, a aplicação criará automaticamente o arquivo de banco de dados `database.db` com as tabelas `users` e `tasks`[cite: 67].
+    Ao ser executada pela primeira vez, a aplicação criará automaticamente o arquivo de banco de dados `database.db` com as tabelas `users` e `tasks`.
 
 6.  **Acesse a aplicação:**
     Abra seu navegador e acesse as seguintes URLs:
