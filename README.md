@@ -27,8 +27,6 @@ A aplicação permite o gerenciamento completo de Usuários e Tarefas associadas
 - **ORM:** SQLAlchemy
 - **Banco de Dados:** SQLite
 - **Arquitetura:** MVC (Model-View-Controller)
-- **Templates:** Jinja2
-- **Estrutura do Projeto:** Padrão *Application Factory* e *Blueprints* para organização das rotas.
 
 ## 🚀 Como Executar o Projeto Localmente
 
