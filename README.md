@@ -67,12 +67,15 @@ Siga os passos abaixo para configurar e executar a aplicação em seu ambiente l
 
 6.  **Acesse a aplicação:**
     Abra seu navegador e acesse as seguintes URLs:
-    - **Página de Usuários:** `http://127.0.0.1:5000/`
-    - **Página de Tarefas:** `http://127.0.0.1:5000/tasks`
+    - **Página de Usuários:** `localhost:5000/`
+    - **Página de Tarefas:** `localhost:5000/tasks`
 
 ## 👨‍💻 Autor
 
-**João Victor**
-**Vitor Daniel**
-**Anderson Alberissi**
-**Gabriel Gonçalves**
+**João Victor - 2402779**
+
+**Vitor Daniel - 2403060**
+
+**Anderson Alberissi - 2403321**
+
+**Gabriel Gonçalves - 2402912**
