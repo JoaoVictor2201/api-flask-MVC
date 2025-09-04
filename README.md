@@ -73,3 +73,6 @@ Siga os passos abaixo para configurar e executar a aplicação em seu ambiente l
 ## 👨‍💻 Autor
 
 **João Victor**
+**Vitor Daniel**
+**Anderson Alberissi**
+**Gabriel Gonçalves**
